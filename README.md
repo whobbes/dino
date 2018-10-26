@@ -5,8 +5,6 @@
 
 The aim is to monitor a package and send regular messages with sensor values as well as event message if the box is dropped or opened. The messages sent can be seen via the SigFox Backend.
 
-The light sensor is polled for change whilst the accelerometer triggers interrupts.
-
 Last update: 2018/10/23
 
 ## Hardware
