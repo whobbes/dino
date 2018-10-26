@@ -1,7 +1,7 @@
 # DINO
 ##### DO NOT DROP // DO NOT OPEN
 
-######Proof of Concept project around asset tracking via IoT
+###### Proof of Concept project around asset tracking via IoT
 
 The aim is to monitor a package and send regular messages with sensor values as well as event message if the box is dropped or opened. The messages sent can be seen via the SigFox Backend.
 
